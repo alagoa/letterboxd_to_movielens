@@ -1,0 +1,542 @@
+Date,Name,Year,Letterboxd URI,Rating
+2014-12-07,Interstellar,2014,https://letterboxd.com/film/interstellar/,3.5
+2014-12-16,Frank,2014,https://letterboxd.com/film/frank-2014/,3.5
+2014-12-16,Pulp Fiction,1994,https://letterboxd.com/film/pulp-fiction/,5
+2014-12-16,The Godfather,1972,https://letterboxd.com/film/the-godfather/,4
+2014-12-16,Star Wars,1977,https://letterboxd.com/film/star-wars/,4
+2014-12-16,The Silence of the Lambs,1991,https://letterboxd.com/film/the-silence-of-the-lambs/,4
+2014-12-16,Gravity,2013,https://letterboxd.com/film/gravity-2013/,3
+2014-12-16,Se7en,1995,https://letterboxd.com/film/se7en/,4
+2014-12-16,Return of the Jedi,1983,https://letterboxd.com/film/return-of-the-jedi/,4
+2014-12-16,Boyhood,2014,https://letterboxd.com/film/boyhood/,4
+2014-12-16,The Lord of the Rings: The Two Towers,2002,https://letterboxd.com/film/the-lord-of-the-rings-the-two-towers/,4.5
+2014-12-16,Inglourious Basterds,2009,https://letterboxd.com/film/inglourious-basterds/,3.5
+2014-12-16,The Shawshank Redemption,1994,https://letterboxd.com/film/the-shawshank-redemption/,4.5
+2014-12-16,Spirited Away,2001,https://letterboxd.com/film/spirited-away/,4.5
+2014-12-16,The Lord of the Rings: The Fellowship of the Ring,2001,https://letterboxd.com/film/the-lord-of-the-rings-the-fellowship-of-the-ring/,4.5
+2014-12-16,Life of Pi,2012,https://letterboxd.com/film/life-of-pi/,3
+2014-12-16,Oldboy,2003,https://letterboxd.com/film/oldboy/,4
+2014-12-16,The Matrix,1999,https://letterboxd.com/film/the-matrix/,4.5
+2014-12-16,My Neighbor Totoro,1988,https://letterboxd.com/film/my-neighbor-totoro/,4
+2014-12-16,Pan's Labyrinth,2006,https://letterboxd.com/film/pans-labyrinth/,3.5
+2014-12-16,Back to the Future,1985,https://letterboxd.com/film/back-to-the-future/,4.5
+2014-12-16,Donnie Darko,2001,https://letterboxd.com/film/donnie-darko/,4
+2014-12-16,Inception,2010,https://letterboxd.com/film/inception/,3.5
+2014-12-16,Fargo,1996,https://letterboxd.com/film/fargo/,3
+2014-12-16,Full Metal Jacket,1987,https://letterboxd.com/film/full-metal-jacket/,4
+2014-12-16,Fight Club,1999,https://letterboxd.com/film/fight-club/,4
+2014-12-16,The Dark Knight,2008,https://letterboxd.com/film/the-dark-knight/,4.5
+2014-12-16,12 Angry Men,1957,https://letterboxd.com/film/12-angry-men/,4
+2014-12-16,Django Unchained,2012,https://letterboxd.com/film/django-unchained/,3
+2014-12-16,Reservoir Dogs,1992,https://letterboxd.com/film/reservoir-dogs/,4
+2014-12-16,American Beauty,1999,https://letterboxd.com/film/american-beauty/,4
+2015-01-16,Mamma Mia!,2008,https://letterboxd.com/film/mamma-mia/,1.5
+2015-01-16,Eragon,2006,https://letterboxd.com/film/eragon/,1.5
+2015-01-16,Rush Hour,1998,https://letterboxd.com/film/rush-hour/,3.5
+2015-01-16,Death at a Funeral,2007,https://letterboxd.com/film/death-at-a-funeral/,2
+2015-01-16,Star Wars: Episode I - The Phantom Menace,1999,https://letterboxd.com/film/star-wars-episode-i-the-phantom-menace/,2.5
+2015-01-16,Star Wars: Episode II - Attack of the Clones,2002,https://letterboxd.com/film/star-wars-episode-ii-attack-of-the-clones/,2.5
+2015-01-16,12 Angry Men,1997,https://letterboxd.com/film/12-angry-men-1997/,3
+2015-01-16,Pirates of the Caribbean: The Curse of the Black Pearl,2003,https://letterboxd.com/film/pirates-of-the-caribbean-the-curse-of-the-black-pearl/,4
+2015-01-16,Star Wars: Episode III - Revenge of the Sith,2005,https://letterboxd.com/film/star-wars-episode-iii-revenge-of-the-sith/,4
+2015-01-16,The Sixth Sense,1999,https://letterboxd.com/film/the-sixth-sense/,3.5
+2015-01-16,American Pie Presents: The Naked Mile,2006,https://letterboxd.com/film/american-pie-presents-the-naked-mile/,1
+2015-01-16,Cell 211,2009,https://letterboxd.com/film/cell-211/,3.5
+2015-01-16,Scary Movie,2000,https://letterboxd.com/film/scary-movie-2000/,3
+2015-01-16,Scary Movie 2,2001,https://letterboxd.com/film/scary-movie-2/,2.5
+2015-01-16,American Wedding,2003,https://letterboxd.com/film/american-wedding/,2
+2015-01-16,American Pie,1999,https://letterboxd.com/film/american-pie/,3.5
+2015-01-16,Ratatouille,2007,https://letterboxd.com/film/ratatouille/,4
+2015-01-16,Gandhi,1982,https://letterboxd.com/film/gandhi/,3
+2015-01-16,[REC],2007,https://letterboxd.com/film/rec/,3.5
+2015-01-16,The Devil's Advocate,1997,https://letterboxd.com/film/the-devils-advocate/,4
+2015-01-16,I Am Legend,2007,https://letterboxd.com/film/i-am-legend/,2
+2015-01-16,Pirates of the Caribbean: On Stranger Tides,2011,https://letterboxd.com/film/pirates-of-the-caribbean-on-stranger-tides/,2
+2015-01-16,[REC]²,2009,https://letterboxd.com/film/rec-2009/,2.5
+2015-01-16,Johnny English,2003,https://letterboxd.com/film/johnny-english/,2.5
+2015-01-16,The Lord of the Rings: The Return of the King,2003,https://letterboxd.com/film/the-lord-of-the-rings-the-return-of-the-king/,4.5
+2015-01-16,Vampires Suck,2010,https://letterboxd.com/film/vampires-suck/,1
+2015-01-16,The Sea Inside,2004,https://letterboxd.com/film/the-sea-inside/,3
+2015-01-16,Pirates of the Caribbean: Dead Man's Chest,2006,https://letterboxd.com/film/pirates-of-the-caribbean-dead-mans-chest/,3
+2015-01-16,The Matrix Reloaded,2003,https://letterboxd.com/film/the-matrix-reloaded/,3
+2015-01-16,Finding Nemo,2003,https://letterboxd.com/film/finding-nemo/,3
+2015-01-16,The Empire Strikes Back,1980,https://letterboxd.com/film/the-empire-strikes-back/,4
+2015-01-16,Sweeney Todd: The Demon Barber of Fleet Street,2007,https://letterboxd.com/film/sweeney-todd-the-demon-barber-of-fleet-street-2007/,3
+2015-01-16,Harry Potter and the Deathly Hallows: Part 1,2010,https://letterboxd.com/film/harry-potter-and-the-deathly-hallows-part-1/,3.5
+2015-01-16,Up,2009,https://letterboxd.com/film/up/,3
+2015-01-16,Shrek,2001,https://letterboxd.com/film/shrek/,4
+2015-01-16,Kung Fu Panda,2008,https://letterboxd.com/film/kung-fu-panda/,3
+2015-01-16,Batman Begins,2005,https://letterboxd.com/film/batman-begins/,3.5
+2015-01-16,Death Note: The Last Name,2006,https://letterboxd.com/film/death-note-the-last-name/,1.5
+2015-01-16,The Avengers,2012,https://letterboxd.com/film/the-avengers-2012/,2.5
+2015-01-16,Harry Potter and the Deathly Hallows: Part 2,2011,https://letterboxd.com/film/harry-potter-and-the-deathly-hallows-part-2/,3.5
+2015-01-16,X-Men,2000,https://letterboxd.com/film/x-men/,3.5
+2015-01-16,X-Men: The Last Stand,2006,https://letterboxd.com/film/x-men-the-last-stand/,2.5
+2015-01-16,Juno,2007,https://letterboxd.com/film/juno/,3
+2015-01-16,X2,2003,https://letterboxd.com/film/x2/,3
+2015-01-16,It's Kind of a Funny Story,2010,https://letterboxd.com/film/its-kind-of-a-funny-story/,2.5
+2015-01-16,Thank You for Smoking,2005,https://letterboxd.com/film/thank-you-for-smoking/,3.5
+2015-01-16,Sleepy Hollow,1999,https://letterboxd.com/film/sleepy-hollow/,3.5
+2015-01-16,Die Hard,1988,https://letterboxd.com/film/die-hard/,4
+2015-01-16,The Prestige,2006,https://letterboxd.com/film/the-prestige/,4.5
+2015-01-16,Saw,2004,https://letterboxd.com/film/saw/,4
+2015-01-16,Spy Kids 3-D: Game Over,2003,https://letterboxd.com/film/spy-kids-3-d-game-over/,1
+2015-01-16,The Simpsons Movie,2007,https://letterboxd.com/film/the-simpsons-movie/,2.5
+2015-01-16,The Dark Knight Rises,2012,https://letterboxd.com/film/the-dark-knight-rises/,3
+2015-01-16,The Perks of Being a Wallflower,2012,https://letterboxd.com/film/the-perks-of-being-a-wallflower/,3.5
+2015-01-16,Harry Potter and the Philosopher's Stone,2001,https://letterboxd.com/film/harry-potter-and-the-philosophers-stone/,3.5
+2015-01-16,Hancock,2008,https://letterboxd.com/film/hancock/,2
+2015-01-16,The Matrix Revolutions,2003,https://letterboxd.com/film/the-matrix-revolutions/,3.5
+2015-01-16,Space Jam,1996,https://letterboxd.com/film/space-jam/,2.5
+2015-01-16,A Clockwork Orange,1971,https://letterboxd.com/film/a-clockwork-orange/,4.5
+2015-01-16,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006,https://letterboxd.com/film/borat-cultural-learnings-of-america-for-make-benefit-glorious-nation-of-kazakhstan/,3.5
+2015-01-16,The Hobbit: An Unexpected Journey,2012,https://letterboxd.com/film/the-hobbit-an-unexpected-journey/,3
+2015-01-16,The Lion King,1994,https://letterboxd.com/film/the-lion-king/,4
+2015-01-16,Memento,2000,https://letterboxd.com/film/memento/,4
+2015-01-16,The Mighty,1998,https://letterboxd.com/film/the-mighty/,1
+2015-01-16,Twilight,2008,https://letterboxd.com/film/twilight-2008/,1.5
+2015-01-16,Kick-Ass,2010,https://letterboxd.com/film/kick-ass/,3
+2015-01-16,Cast Away,2000,https://letterboxd.com/film/cast-away/,3
+2015-01-16,Spider-Man,2002,https://letterboxd.com/film/spider-man/,3
+2015-01-16,The Amazing Spider-Man,2012,https://letterboxd.com/film/the-amazing-spider-man/,1.5
+2015-01-16,The Descendants,2011,https://letterboxd.com/film/the-descendants/,2.5
+2015-01-16,Casino Royale,2006,https://letterboxd.com/film/casino-royale-2006/,3
+2015-01-16,Harry Potter and the Chamber of Secrets,2002,https://letterboxd.com/film/harry-potter-and-the-chamber-of-secrets/,3
+2015-01-16,Harry Potter and the Half-Blood Prince,2009,https://letterboxd.com/film/harry-potter-and-the-half-blood-prince/,3
+2015-01-16,Harry Potter and the Order of the Phoenix,2007,https://letterboxd.com/film/harry-potter-and-the-order-of-the-phoenix/,2.5
+2015-01-16,The Curious Case of Benjamin Button,2008,https://letterboxd.com/film/the-curious-case-of-benjamin-button/,3
+2015-01-16,The Village,2004,https://letterboxd.com/film/the-village/,2
+2015-01-16,Hercules,1997,https://letterboxd.com/film/hercules-1997/,4
+2015-01-16,Road Trip,2000,https://letterboxd.com/film/road-trip/,2.5
+2015-01-16,American Reunion,2012,https://letterboxd.com/film/american-reunion/,2
+2015-01-16,Anastasia,1997,https://letterboxd.com/film/anastasia-1997/,2.5
+2015-01-16,The Terminal,2004,https://letterboxd.com/film/the-terminal/,2.5
+2015-01-16,The Others,2001,https://letterboxd.com/film/the-others/,4
+2015-01-16,The Kid,1921,https://letterboxd.com/film/the-kid/,4.5
+2015-01-16,It's a Wonderful Life,1946,https://letterboxd.com/film/its-a-wonderful-life/,4
+2015-01-16,The Forbidden Kingdom,2008,https://letterboxd.com/film/the-forbidden-kingdom/,2
+2015-01-16,Princess Mononoke,1997,https://letterboxd.com/film/princess-mononoke/,4.5
+2015-01-16,The Meaning of Life,1983,https://letterboxd.com/film/the-meaning-of-life-1983/,3.5
+2015-01-16,Forrest Gump,1994,https://letterboxd.com/film/forrest-gump/,3.5
+2015-01-16,Donnie Brasco,1997,https://letterboxd.com/film/donnie-brasco/,3
+2015-01-16,The Intouchables,2011,https://letterboxd.com/film/the-intouchables/,3.5
+2015-01-16,Gangs of New York,2002,https://letterboxd.com/film/gangs-of-new-york-2002/,3.5
+2015-01-16,The Boy in the Striped Pyjamas,2008,https://letterboxd.com/film/the-boy-in-the-striped-pyjamas/,2.5
+2015-01-16,The Exorcism of Emily Rose,2005,https://letterboxd.com/film/the-exorcism-of-emily-rose/,2.5
+2015-01-16,Saw III,2006,https://letterboxd.com/film/saw-iii/,3
+2015-01-16,Jurassic Park,1993,https://letterboxd.com/film/jurassic-park/,3.5
+2015-01-16,Bruce Almighty,2003,https://letterboxd.com/film/bruce-almighty/,3
+2015-01-16,The Exorcist,1973,https://letterboxd.com/film/the-exorcist/,4
+2015-01-16,Panic Room,2002,https://letterboxd.com/film/panic-room/,3
+2015-01-16,The Ring,2002,https://letterboxd.com/film/the-ring-2002/,3
+2015-01-16,Final Destination,2000,https://letterboxd.com/film/final-destination/,2
+2015-01-16,50 First Dates,2004,https://letterboxd.com/film/50-first-dates/,3
+2015-01-16,Ella Enchanted,2004,https://letterboxd.com/film/ella-enchanted/,2
+2015-01-16,1408,2007,https://letterboxd.com/film/1408/,2.5
+2015-01-16,Saw II,2005,https://letterboxd.com/film/saw-ii/,2
+2015-01-16,Scream 2,1997,https://letterboxd.com/film/scream-2/,2.5
+2015-01-16,Ferris Bueller's Day Off,1986,https://letterboxd.com/film/ferris-buellers-day-off/,3.5
+2015-09-07,Scott Pilgrim vs. the World,2010,https://letterboxd.com/film/scott-pilgrim-vs-the-world/,4.5
+2015-09-08,Rush Hour 3,2007,https://letterboxd.com/film/rush-hour-3/,2.5
+2015-09-08,Rush Hour 2,2001,https://letterboxd.com/film/rush-hour-2/,3
+2015-09-08,Pirates of the Caribbean: At World's End,2007,https://letterboxd.com/film/pirates-of-the-caribbean-at-worlds-end/,2
+2015-09-08,The Count of Monte Cristo,2002,https://letterboxd.com/film/the-count-of-monte-cristo-2002/,2.5
+2015-09-08,American Pie 2,2001,https://letterboxd.com/film/american-pie-2/,3
+2015-09-08,American Pie Presents: Band Camp,2005,https://letterboxd.com/film/american-pie-presents-band-camp/,1.5
+2015-09-08,American Pie Presents: Beta House,2007,https://letterboxd.com/film/american-pie-presents-beta-house/,1.5
+2015-09-08,Scary Movie 3,2003,https://letterboxd.com/film/scary-movie-3/,2
+2015-09-08,Scary Movie 4,2006,https://letterboxd.com/film/scary-movie-4/,1.5
+2015-09-08,Scream,1996,https://letterboxd.com/film/scream/,3.5
+2015-09-08,Shrek the Third,2007,https://letterboxd.com/film/shrek-the-third/,2
+2015-09-08,Batman,1989,https://letterboxd.com/film/batman-1989/,3.5
+2015-09-08,Shrek 2,2004,https://letterboxd.com/film/shrek-2/,2.5
+2015-09-08,"Batman: The Dark Knight Returns, Deluxe Edition",2013,,4
+2015-09-08,"Batman: The Dark Knight Returns, Part 1",2012,https://letterboxd.com/film/batman-the-dark-knight-returns-part-1/,3.5
+2015-09-08,"Batman: The Dark Knight Returns, Part 2",2013,https://letterboxd.com/film/batman-the-dark-knight-returns-part-2/,4.5
+2015-09-08,Harry Potter and the Goblet of Fire,2005,https://letterboxd.com/film/harry-potter-and-the-goblet-of-fire/,3
+2015-09-08,Harry Potter and the Prisoner of Azkaban,2004,https://letterboxd.com/film/harry-potter-and-the-prisoner-of-azkaban/,4
+2015-09-08,Saw IV,2007,https://letterboxd.com/film/saw-iv/,1.5
+2015-09-08,Her,2013,https://letterboxd.com/film/her/,4.5
+2015-09-08,Anger Management,2003,https://letterboxd.com/film/anger-management/,1.5
+2015-09-08,The Hobbit: The Desolation of Smaug,2013,https://letterboxd.com/film/the-hobbit-the-desolation-of-smaug/,2.5
+2015-09-08,Spider-Man 2,2004,https://letterboxd.com/film/spider-man-2/,3
+2015-09-08,Spider-Man 3,2007,https://letterboxd.com/film/spider-man-3/,1
+2015-09-08,Dragon: The Bruce Lee Story,1993,https://letterboxd.com/film/dragon-the-bruce-lee-story/,3
+2015-09-08,"Good bye, Lenin!",2003,https://letterboxd.com/film/good-bye-lenin/,3.5
+2015-09-08,The Island,2005,https://letterboxd.com/film/the-island-2005/,2
+2015-09-08,One Flew Over the Cuckoo's Nest,1975,https://letterboxd.com/film/one-flew-over-the-cuckoos-nest/,4
+2015-09-08,American History X,1998,https://letterboxd.com/film/american-history-x/,3.5
+2015-09-08,Four Weddings and a Funeral,1994,https://letterboxd.com/film/four-weddings-and-a-funeral/,1.5
+2015-09-08,Kill Bill: Vol. 1,2003,https://letterboxd.com/film/kill-bill-vol-1/,3.5
+2015-09-08,Jackie Brown,1997,https://letterboxd.com/film/jackie-brown/,4
+2015-09-08,Titanic,1997,https://letterboxd.com/film/titanic-1997/,2.5
+2015-09-08,Man of Steel,2013,https://letterboxd.com/film/man-of-steel/,2
+2015-09-08,Sherlock Holmes,2009,https://letterboxd.com/film/sherlock-holmes-2009/,2.5
+2015-09-08,Iron Man,2008,https://letterboxd.com/film/iron-man-2008/,2.5
+2015-09-08,Into the Wild,2007,https://letterboxd.com/film/into-the-wild/,3
+2015-09-08,Charlie and the Chocolate Factory,2005,https://letterboxd.com/film/charlie-and-the-chocolate-factory/,2
+2015-09-08,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,https://letterboxd.com/film/the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe/,3
+2015-09-08,Twelve Monkeys,1995,https://letterboxd.com/film/twelve-monkeys/,3
+2015-09-08,Million Dollar Baby,2004,https://letterboxd.com/film/million-dollar-baby/,3
+2015-09-08,The Mummy,1999,https://letterboxd.com/film/the-mummy-1999/,3
+2015-09-08,Project X,2012,https://letterboxd.com/film/project-x-2012/,1.5
+2015-09-08,Dead Poets Society,1989,https://letterboxd.com/film/dead-poets-society/,3.5
+2015-09-08,The Impossible,2012,https://letterboxd.com/film/the-impossible/,2.5
+2015-09-08,Happy Gilmore,1996,https://letterboxd.com/film/happy-gilmore/,2
+2015-09-08,The Butterfly Effect,2004,https://letterboxd.com/film/the-butterfly-effect/,2.5
+2015-09-08,War of the Worlds,2005,https://letterboxd.com/film/war-of-the-worlds/,2
+2015-09-08,The Boat That Rocked,2009,https://letterboxd.com/film/the-boat-that-rocked/,3
+2015-09-08,The Hangover Part II,2011,https://letterboxd.com/film/the-hangover-part-ii/,1.5
+2015-09-08,Match Point,2005,https://letterboxd.com/film/match-point/,3
+2015-09-08,Madagascar,2005,https://letterboxd.com/film/madagascar/,3
+2015-09-08,Fast & Furious,2009,https://letterboxd.com/film/fast-furious/,2
+2015-09-08,The Mummy Returns,2001,https://letterboxd.com/film/the-mummy-returns/,2
+2015-09-08,2 Fast 2 Furious,2003,https://letterboxd.com/film/2-fast-2-furious/,3.5
+2015-09-08,Not Another Teen Movie,2001,https://letterboxd.com/film/not-another-teen-movie/,2
+2015-09-08,The Lovely Bones,2009,https://letterboxd.com/film/the-lovely-bones/,1.5
+2015-09-08,The Little Mermaid,1989,https://letterboxd.com/film/the-little-mermaid/,2.5
+2015-09-08,Slumdog Millionaire,2008,https://letterboxd.com/film/slumdog-millionaire/,3
+2015-09-08,Ice Age,2002,https://letterboxd.com/film/ice-age/,2.5
+2015-09-08,How the Grinch Stole Christmas,2000,https://letterboxd.com/film/how-the-grinch-stole-christmas-2000/,1.5
+2015-09-08,Little Nicky,2000,https://letterboxd.com/film/little-nicky/,1.5
+2015-09-08,101 Dalmatians,1996,https://letterboxd.com/film/101-dalmatians/,2
+2015-09-08,Shark Tale,2004,https://letterboxd.com/film/shark-tale/,1.5
+2015-09-08,School of Rock,2003,https://letterboxd.com/film/school-of-rock/,3
+2015-09-08,Monty Python and the Holy Grail,1975,https://letterboxd.com/film/monty-python-and-the-holy-grail/,4
+2015-09-08,"South Park: Bigger, Longer & Uncut",1999,https://letterboxd.com/film/south-park-bigger-longer-uncut/,3.5
+2015-09-08,Grave of the Fireflies,1988,https://letterboxd.com/film/grave-of-the-fireflies/,4
+2015-09-08,Chicken Run,2000,https://letterboxd.com/film/chicken-run/,2
+2015-09-08,Raiders of the Lost Ark,1981,https://letterboxd.com/film/raiders-of-the-lost-ark/,3.5
+2015-09-08,A Nightmare on Elm Street,1984,https://letterboxd.com/film/a-nightmare-on-elm-street/,3.5
+2015-09-08,The Hunger Games,2012,https://letterboxd.com/film/the-hunger-games/,2
+2015-09-08,House of Wax,2005,https://letterboxd.com/film/house-of-wax-2005/,1.5
+2015-09-08,Remember the Titans,2000,https://letterboxd.com/film/remember-the-titans/,2.5
+2015-09-08,Déjà Vu,2006,https://letterboxd.com/film/deja-vu/,2.5
+2015-09-08,Goal!: The Dream Begins,2005,https://letterboxd.com/film/goal-the-dream-begins/,2
+2015-09-08,The Machinist,2004,https://letterboxd.com/film/the-machinist/,3
+2015-09-08,Pinocchio,1940,https://letterboxd.com/film/pinocchio/,3.5
+2015-09-08,The Incredibles,2004,https://letterboxd.com/film/the-incredibles/,2.5
+2015-09-08,Daredevil,2003,https://letterboxd.com/film/daredevil/,1.5
+2015-09-08,The Girl Who Leapt Through Time,2006,https://letterboxd.com/film/the-girl-who-leapt-through-time/,3.5
+2015-09-08,Talk to Her,2002,https://letterboxd.com/film/talk-to-her/,3.5
+2015-09-08,Tarzan,1999,https://letterboxd.com/film/tarzan/,3.5
+2015-09-08,Love Actually,2003,https://letterboxd.com/film/love-actually/,2.5
+2015-09-08,Mary Poppins,1964,https://letterboxd.com/film/mary-poppins/,3.5
+2015-09-08,The Garden of Words,2013,https://letterboxd.com/film/the-garden-of-words/,3.5
+2015-09-08,Snow White and the Seven Dwarfs,1937,https://letterboxd.com/film/snow-white-and-the-seven-dwarfs/,3
+2015-09-08,The Truman Show,1998,https://letterboxd.com/film/the-truman-show/,4
+2015-09-08,Amélie,2001,https://letterboxd.com/film/amelie/,4
+2015-09-08,The Princess Bride,1987,https://letterboxd.com/film/the-princess-bride/,3
+2015-09-08,After the Sunset,2004,https://letterboxd.com/film/after-the-sunset/,2.5
+2015-09-08,Yojimbo,1961,https://letterboxd.com/film/yojimbo/,4
+2015-09-08,2 Days in Paris,2007,https://letterboxd.com/film/2-days-in-paris/,3.5
+2015-09-08,The End of Evangelion,1997,https://letterboxd.com/film/the-end-of-evangelion/,5
+2015-09-08,Evangelion: 1.0: You Are (Not) Alone,2007,https://letterboxd.com/film/evangelion-10-you-are-not-alone/,3.5
+2015-09-08,Evangelion: 2.0 You Can (Not) Advance,2009,https://letterboxd.com/film/evangelion-20-you-can-not-advance/,3.5
+2015-09-08,Evangelion: 3.0 You Can (Not) Redo,2012,https://letterboxd.com/film/evangelion-30-you-can-not-redo/,4
+2015-09-08,Perfect Blue,1997,https://letterboxd.com/film/perfect-blue/,4
+2015-09-08,Whisper of the Heart,1995,https://letterboxd.com/film/whisper-of-the-heart/,3
+2015-09-08,5 Centimeters per Second,2007,https://letterboxd.com/film/5-centimeters-per-second/,3
+2015-09-08,"The Good, the Bad and the Ugly",1966,https://letterboxd.com/film/the-good-the-bad-and-the-ugly/,4
+2015-09-08,You Don't Mess with the Zohan,2008,https://letterboxd.com/film/you-dont-mess-with-the-zohan/,1
+2015-09-08,Avatar,2009,https://letterboxd.com/film/avatar/,2
+2015-09-08,Short Term 12,2013,https://letterboxd.com/film/short-term-12-2013/,4
+2015-09-08,Austin Powers: International Man of Mystery,1997,https://letterboxd.com/film/austin-powers-international-man-of-mystery/,2.5
+2015-09-08,The Wolf of Wall Street,2013,https://letterboxd.com/film/the-wolf-of-wall-street/,4
+2015-09-08,Pink Floyd: The Wall,1982,https://letterboxd.com/film/pink-floyd-the-wall/,3
+2015-09-08,Sanjuro,1962,https://letterboxd.com/film/sanjuro/,4
+2015-09-08,Monsieur Batignole,2002,https://letterboxd.com/film/monsieur-batignole/,2
+2015-09-08,The 40 Year Old Virgin,2005,https://letterboxd.com/film/the-40-year-old-virgin/,2.5
+2015-09-08,Lupin the Third: The Castle of Cagliostro,1979,https://letterboxd.com/film/lupin-the-third-the-castle-of-cagliostro/,4
+2015-09-08,Recollections of the Yellow House,1989,https://letterboxd.com/film/recollections-of-the-yellow-house/,3.5
+2015-09-08,The Wind Rises,2013,https://letterboxd.com/film/the-wind-rises/,3
+2015-09-08,Birdman,2014,https://letterboxd.com/film/birdman/,4.5
+2015-09-08,Kiki's Delivery Service,1989,https://letterboxd.com/film/kikis-delivery-service/,3.5
+2015-09-08,Office Space,1999,https://letterboxd.com/film/office-space/,3
+2015-09-08,Nightcrawler,2014,https://letterboxd.com/film/nightcrawler/,3.5
+2015-09-08,Pay It Forward,2000,https://letterboxd.com/film/pay-it-forward/,1.5
+2015-09-08,Troy,2004,https://letterboxd.com/film/troy/,2.5
+2015-09-08,Harakiri,1962,https://letterboxd.com/film/harakiri/,4
+2015-09-08,Charlie's Angels,2000,https://letterboxd.com/film/charlies-angels/,1.5
+2015-09-08,The Mask,1994,https://letterboxd.com/film/the-mask-1994/,2
+2015-09-08,Lost in Translation,2003,https://letterboxd.com/film/lost-in-translation/,3.5
+2015-09-08,Police Story,1985,https://letterboxd.com/film/police-story/,4
+2015-09-08,The Karate Kid,2010,https://letterboxd.com/film/the-karate-kid-2010/,1.5
+2015-09-08,The Karate Kid,1984,https://letterboxd.com/film/the-karate-kid/,3
+2015-09-08,Nausicaä of the Valley of the Wind,1984,https://letterboxd.com/film/nausicaa-of-the-valley-of-the-wind/,4.5
+2015-09-08,The Tale of the Princess Kaguya,2013,https://letterboxd.com/film/the-tale-of-the-princess-kaguya/,4
+2015-09-08,The Shining,1980,https://letterboxd.com/film/the-shining/,4
+2015-09-08,Shanghai Knights,2003,https://letterboxd.com/film/shanghai-knights/,2.5
+2015-09-08,Whiplash,2014,https://letterboxd.com/film/whiplash-2014/,4
+2015-09-08,Fallen Angels,1995,https://letterboxd.com/film/fallen-angels/,4.5
+2015-09-08,Chungking Express,1994,https://letterboxd.com/film/chungking-express/,5
+2015-09-08,Gone Girl,2014,https://letterboxd.com/film/gone-girl/,3.5
+2015-09-08,Once,2007,https://letterboxd.com/film/once/,3
+2015-09-08,Demolition Man,1993,https://letterboxd.com/film/demolition-man/,1.5
+2015-09-08,Zodiac,2007,https://letterboxd.com/film/zodiac/,4
+2015-09-08,Jumanji,1995,https://letterboxd.com/film/jumanji/,2.5
+2015-09-08,Enter the Dragon,1973,https://letterboxd.com/film/enter-the-dragon/,3
+2015-09-08,Dancer in the Dark,2000,https://letterboxd.com/film/dancer-in-the-dark/,4
+2015-09-08,Walk the Line,2005,https://letterboxd.com/film/walk-the-line/,3
+2015-09-08,Nymphomaniac: Vol. I,2013,https://letterboxd.com/film/nymphomaniac-volume-i/,2
+2015-09-08,Akira,1988,https://letterboxd.com/film/akira/,3.5
+2015-09-08,When Marnie Was There,2014,https://letterboxd.com/film/when-marnie-was-there/,3.5
+2015-09-08,August Rush,2007,https://letterboxd.com/film/august-rush/,1
+2015-09-08,Snatch,2000,https://letterboxd.com/film/snatch/,3
+2015-09-08,Vicky Cristina Barcelona,2008,https://letterboxd.com/film/vicky-cristina-barcelona/,2
+2015-09-08,Shaun of the Dead,2004,https://letterboxd.com/film/shaun-of-the-dead/,4
+2015-09-08,The Hunt,2012,https://letterboxd.com/film/the-hunt-2012/,4
+2015-09-08,The Crow,1994,https://letterboxd.com/film/the-crow/,3
+2015-09-08,The Girl with the Dragon Tattoo,2011,https://letterboxd.com/film/the-girl-with-the-dragon-tattoo-2011/,3.5
+2015-09-08,Secret Window,2004,https://letterboxd.com/film/secret-window/,2
+2015-09-08,God's Comedy,1995,https://letterboxd.com/film/gods-comedy/,3.5
+2015-09-08,Memories of Murder,2003,https://letterboxd.com/film/memories-of-murder/,4.5
+2015-09-08,"Kumiko, the Treasure Hunter",2014,https://letterboxd.com/film/kumiko-the-treasure-hunter/,3.5
+2015-09-08,21,2008,https://letterboxd.com/film/21/,2
+2015-09-08,The Social Network,2010,https://letterboxd.com/film/the-social-network/,4
+2015-09-08,Liar Liar,1997,https://letterboxd.com/film/liar-liar/,2
+2015-09-08,Ran,1985,https://letterboxd.com/film/ran/,4
+2015-09-08,The Game,1997,https://letterboxd.com/film/the-game/,3.5
+2015-09-08,Eyes Wide Shut,1999,https://letterboxd.com/film/eyes-wide-shut/,4.5
+2015-09-08,Rocky,1976,https://letterboxd.com/film/rocky/,4
+2015-09-08,Before Sunrise,1995,https://letterboxd.com/film/before-sunrise/,4
+2015-09-08,Paprika,2006,https://letterboxd.com/film/paprika-2006/,4
+2015-09-08,The Departed,2006,https://letterboxd.com/film/the-departed/,4
+2015-09-08,Drunken Master,1978,https://letterboxd.com/film/drunken-master/,3.5
+2015-09-08,Peaceful Warrior,2006,https://letterboxd.com/film/peaceful-warrior/,2
+2015-09-08,Mulholland Drive,2001,https://letterboxd.com/film/mulholland-drive/,4.5
+2015-09-10,"Synecdoche, New York",2008,https://letterboxd.com/film/synecdoche-new-york/,4.5
+2015-09-11,Seven Samurai,1954,https://letterboxd.com/film/seven-samurai/,5
+2015-09-12,The Hidden Fortress,1958,https://letterboxd.com/film/the-hidden-fortress/,3.5
+2015-09-13,The Imposter,2012,https://letterboxd.com/film/the-imposter-2012/,4
+2015-09-13,Rear Window,1954,https://letterboxd.com/film/rear-window/,4
+2015-09-14,Battle Royale,2000,https://letterboxd.com/film/battle-royale/,3
+2015-09-15,In the Mood for Love,2000,https://letterboxd.com/film/in-the-mood-for-love/,4.5
+2015-09-28,Vertigo,1958,https://letterboxd.com/film/vertigo/,4
+2015-10-02,"Arabian Nights: Volume 2, The Desolate One",2015,https://letterboxd.com/film/arabian-nights-volume-2-the-desolate-one/,4
+2015-10-06,Blue Velvet,1986,https://letterboxd.com/film/blue-velvet/,3.5
+2015-10-24,"Arabian Nights: Volume 3, The Enchanted One",2015,https://letterboxd.com/film/arabian-nights-volume-3-the-enchanted-one/,3
+2015-12-23,Dear Zachary: A Letter to a Son About His Father,2008,https://letterboxd.com/film/dear-zachary-a-letter-to-a-son-about-his-father/,3.5
+2015-12-23,Tokyo Drifter,1966,https://letterboxd.com/film/tokyo-drifter/,4
+2015-12-24,Star Wars: The Force Awakens,2015,https://letterboxd.com/film/star-wars-the-force-awakens/,3
+2015-12-24,Cowboy Bebop: The Movie,2001,https://letterboxd.com/film/cowboy-bebop-the-movie/,3.5
+2015-12-26,The Lobster,2015,https://letterboxd.com/film/the-lobster/,4.5
+2015-12-28,The Ambassador,2011,https://letterboxd.com/film/the-ambassador/,3
+2015-12-29,Batman: Under the Red Hood,2010,https://letterboxd.com/film/batman-under-the-red-hood/,3
+2015-12-30,The Usual Suspects,1995,https://letterboxd.com/film/the-usual-suspects/,3.5
+2015-12-30,Ghost Ship,2002,https://letterboxd.com/film/ghost-ship/,2
+2015-12-31,Mad Max: Fury Road,2015,https://letterboxd.com/film/mad-max-fury-road/,4
+2016-01-05,American Psycho,2000,https://letterboxd.com/film/american-psycho/,4
+2016-01-06,Ex Machina,2014,https://letterboxd.com/film/ex-machina-2014/,4
+2016-01-08,Psycho,1960,https://letterboxd.com/film/psycho/,4
+2016-01-08,Police Story 2,1988,https://letterboxd.com/film/police-story-2/,2.5
+2016-01-13,High and Low,1963,https://letterboxd.com/film/high-and-low/,4.5
+2016-01-20,Everything Will Be OK,2006,https://letterboxd.com/film/everything-will-be-ok/,3.5
+2016-01-20,The Tree of Life,2011,https://letterboxd.com/film/the-tree-of-life-2011/,3.5
+2016-01-21,The Congress,2013,https://letterboxd.com/film/the-congress-2013/,2.5
+2016-01-22,Unfriended,2014,https://letterboxd.com/film/unfriended/,1.5
+2016-01-25,The Spousals of God,1999,https://letterboxd.com/film/the-spousals-of-god/,3
+2016-01-25,Bowling for Columbine,2002,https://letterboxd.com/film/bowling-for-columbine/,3.5
+2016-01-27,Blue Is the Warmest Color,2013,https://letterboxd.com/film/blue-is-the-warmest-color/,3.5
+2016-01-28,The Bad Sleep Well,1960,https://letterboxd.com/film/the-bad-sleep-well/,4.5
+2016-01-29,Spotlight,2015,https://letterboxd.com/film/spotlight/,3.5
+2016-01-30,2046,2004,https://letterboxd.com/film/2046/,4
+2016-02-13,The Blair Witch Project,1999,https://letterboxd.com/film/the-blair-witch-project/,3.5
+2016-02-15,Carol,2015,https://letterboxd.com/film/carol-2015/,3.5
+2016-03-02,102 Dalmatians,2000,https://letterboxd.com/film/102-dalmatians/,1
+2016-03-20,Brazil,1985,https://letterboxd.com/film/brazil/,3.5
+2016-03-24,Twin Peaks: Fire Walk with Me,1992,https://letterboxd.com/film/twin-peaks-fire-walk-with-me/,4.5
+2016-04-10,In Bruges,2008,https://letterboxd.com/film/in-bruges/,4
+2016-04-14,Three Colors: Blue,1993,https://letterboxd.com/film/three-colors-blue/,4
+2016-04-19,Three Colors: Red,1994,https://letterboxd.com/film/three-colors-red/,4
+2016-05-17,Our Little Sister,2015,https://letterboxd.com/film/our-little-sister/,4
+2016-05-19,Sunrise: A Song of Two Humans,1927,https://letterboxd.com/film/sunrise-a-song-of-two-humans/,4.5
+2016-05-20,The Witch,2015,https://letterboxd.com/film/the-witch-2015/,4
+2016-05-22,Priest,2011,https://letterboxd.com/film/priest-2011/,1
+2016-05-29,Reign of Fire,2002,https://letterboxd.com/film/reign-of-fire/,2
+2016-05-30,"The Karate Kid, Part III",1989,https://letterboxd.com/film/the-karate-kid-part-iii/,2
+2016-05-30,The Next Karate Kid,1994,https://letterboxd.com/film/the-next-karate-kid/,2
+2016-06-05,Twin Peaks,1989,https://letterboxd.com/film/twin-peaks/,4.5
+2016-06-05,Senna,2010,https://letterboxd.com/film/senna/,3.5
+2016-06-06,Lawrence of Arabia,1962,https://letterboxd.com/film/lawrence-of-arabia/,4
+2016-06-14,Halloween,1978,https://letterboxd.com/film/halloween-1978/,3.5
+2016-06-14,A Separation,2011,https://letterboxd.com/film/a-separation/,4
+2016-06-18,Fateful Findings,2013,https://letterboxd.com/film/fateful-findings/,1
+2016-06-18,Van Helsing,2004,https://letterboxd.com/film/van-helsing/,1
+2016-06-19,The Mutants,1998,https://letterboxd.com/film/the-mutants/,4
+2016-06-20,Eat Drink Man Woman,1994,https://letterboxd.com/film/eat-drink-man-woman/,3.5
+2016-06-20,Primer,2004,https://letterboxd.com/film/primer/,3.5
+2016-06-23,John Wick,2014,https://letterboxd.com/film/john-wick/,2.5
+2016-06-27,Rashomon,1950,https://letterboxd.com/film/rashomon/,3.5
+2016-06-29,The Fast and the Furious,2001,https://letterboxd.com/film/the-fast-and-the-furious-2001/,3
+2016-06-29,The Fast and the Furious: Tokyo Drift,2006,https://letterboxd.com/film/the-fast-and-the-furious-tokyo-drift/,1.5
+2016-07-03,The Green Years,1963,https://letterboxd.com/film/the-green-years-1963/,3
+2016-07-11,Hero,2002,https://letterboxd.com/film/hero-2002/,4
+2016-07-11,The Hateful Eight,2015,https://letterboxd.com/film/the-hateful-eight/,2.5
+2016-07-17,Knockabout,1979,https://letterboxd.com/film/knockabout/,2
+2016-07-18,Skyfall,2012,https://letterboxd.com/film/skyfall/,3
+2016-07-21,Double Down,2005,https://letterboxd.com/film/double-down-2005/,0.5
+2016-07-31,Spring Breakers,2012,https://letterboxd.com/film/spring-breakers/,3.5
+2016-07-31,The Apartment,1960,https://letterboxd.com/film/the-apartment/,4.5
+2016-08-02,Shanghai Noon,2000,https://letterboxd.com/film/shanghai-noon/,2
+2016-08-04,Audition,1999,https://letterboxd.com/film/audition/,3.5
+2016-08-13,Escape from Tomorrow,2013,https://letterboxd.com/film/escape-from-tomorrow/,3
+2016-08-16,Ichi the Killer,2001,https://letterboxd.com/film/ichi-the-killer/,3.5
+2016-08-18,True Romance,1993,https://letterboxd.com/film/true-romance/,3.5
+2016-08-18,Top Gun,1986,https://letterboxd.com/film/top-gun/,2
+2016-08-19,Days of Being Wild,1990,https://letterboxd.com/film/days-of-being-wild/,4
+2016-08-19,"Arabian Nights: Volume 1, The Restless One",2015,https://letterboxd.com/film/arabian-nights-volume-1-the-restless-one/,4.5
+2016-08-20,Exit Through the Gift Shop,2010,https://letterboxd.com/film/exit-through-the-gift-shop/,3.5
+2016-08-21,The Passion of Joan of Arc,1928,https://letterboxd.com/film/the-passion-of-joan-of-arc/,4
+2016-08-23,I Saw the Devil,2010,https://letterboxd.com/film/i-saw-the-devil/,2.5
+2016-08-25,Funny Games,2007,https://letterboxd.com/film/funny-games-2007/,4
+2016-08-25,DotCom,2007,https://letterboxd.com/film/dotcom/,1.5
+2016-08-26,8 Mile,2002,https://letterboxd.com/film/8-mile/,2.5
+2016-08-29,Caché,2005,https://letterboxd.com/film/cache/,4
+2016-09-02,Sympathy for Mr. Vengeance,2002,https://letterboxd.com/film/sympathy-for-mr-vengeance/,4
+2016-09-05,Before Sunset,2004,https://letterboxd.com/film/before-sunset/,4
+2016-09-06,Eternal Sunshine of the Spotless Mind,2004,https://letterboxd.com/film/eternal-sunshine-of-the-spotless-mind/,4
+2016-09-11,Prisoners,2013,https://letterboxd.com/film/prisoners/,4
+2016-09-13,Love Exposure,2008,https://letterboxd.com/film/love-exposure/,4.5
+2016-10-05,Citizen Kane,1941,https://letterboxd.com/film/citizen-kane/,4.5
+2016-10-06,Kubo and the Two Strings,2016,https://letterboxd.com/film/kubo-and-the-two-strings/,4
+2016-10-21,Breathless,1960,https://letterboxd.com/film/breathless/,3.5
+2016-11-29,Woman in the Dunes,1964,https://letterboxd.com/film/woman-in-the-dunes/,4.5
+2016-11-30,Tabu,2012,https://letterboxd.com/film/tabu/,4
+2016-12-16,The Aviator,2004,https://letterboxd.com/film/the-aviator/,2.5
+2016-12-16,The Handmaiden,2016,https://letterboxd.com/film/the-handmaiden/,4
+2016-12-30,Fear and Loathing in Las Vegas,1998,https://letterboxd.com/film/fear-and-loathing-in-las-vegas/,4
+2016-12-30,The Nice Guys,2016,https://letterboxd.com/film/the-nice-guys/,3
+2016-12-31,Hot Fuzz,2007,https://letterboxd.com/film/hot-fuzz/,4
+2016-12-31,The World's End,2013,https://letterboxd.com/film/the-worlds-end/,3.5
+2017-01-02,Force Majeure,2014,https://letterboxd.com/film/force-majeure-2014/,4
+2017-01-04,Evan Almighty,2007,https://letterboxd.com/film/evan-almighty/,1.5
+2017-01-05,The King's Speech,2010,https://letterboxd.com/film/the-kings-speech/,2.5
+2017-01-07,Mommy,2014,https://letterboxd.com/film/mommy-2014/,4
+2017-01-10,Sing Street,2016,https://letterboxd.com/film/sing-street/,3.5
+2017-01-17,Of Shadows and Wings,2015,https://letterboxd.com/film/of-shadows-and-wings/,3
+2017-01-18,Toy Story,1995,https://letterboxd.com/film/toy-story/,3
+2017-01-19,10 Cloverfield Lane,2016,https://letterboxd.com/film/10-cloverfield-lane/,3.5
+2017-01-20,eXistenZ,1999,https://letterboxd.com/film/existenz/,3
+2017-01-22,It Follows,2014,https://letterboxd.com/film/it-follows/,3.5
+2017-01-22,Robin Hood,2010,https://letterboxd.com/film/robin-hood-2010/,2
+2017-01-25,Night Moves,2013,https://letterboxd.com/film/night-moves-2013/,3
+2017-01-29,Ponto Morto,2014,https://letterboxd.com/film/ponto-morto/,3
+2017-01-30,Mystery Train,1989,https://letterboxd.com/film/mystery-train/,3.5
+2017-02-03,Sympathy for Lady Vengeance,2005,https://letterboxd.com/film/sympathy-for-lady-vengeance/,4
+2017-02-05,Mysteries of Lisbon,2010,https://letterboxd.com/film/mysteries-of-lisbon/,2.5
+2017-02-05,White House Down,2013,https://letterboxd.com/film/white-house-down/,1
+2017-02-06,Duck Amuck,1953,https://letterboxd.com/film/duck-amuck/,4
+2017-02-06,Bad Teacher,2011,https://letterboxd.com/film/bad-teacher/,0.5
+2017-02-08,Arrival,2016,https://letterboxd.com/film/arrival-2016/,3.5
+2017-02-10,The Host,2006,https://letterboxd.com/film/the-host/,3.5
+2017-02-10,Wild at Heart,1990,https://letterboxd.com/film/wild-at-heart/,3.5
+2017-02-11,(Be)Longing,2014,https://letterboxd.com/film/belonging-2014/,2.5
+2017-02-13,La La Land,2016,https://letterboxd.com/film/la-la-land/,3.5
+2017-02-13,A Bride for Rip Van Winkle,2016,https://letterboxd.com/film/a-bride-for-rip-van-winkle/,4
+2017-02-14,Street Fighter: Assassin's Fist,2014,https://letterboxd.com/film/street-fighter-assassins-fist/,3
+2017-02-14,Devil May Cry,,https://letterboxd.com/film/devil-may-cry/,2.5
+2017-02-14,The Kingdom of Dreams and Madness,2013,https://letterboxd.com/film/the-kingdom-of-dreams-and-madness/,4
+2017-02-14,Steins;Gate: The Movie − Load Region of Déjà Vu,2013,https://letterboxd.com/film/steins-gate-the-movie-load-region-of-deja-vu/,2.5
+2017-02-14,Jiro Dreams of Sushi,2011,https://letterboxd.com/film/jiro-dreams-of-sushi/,4
+2017-02-14,The Pacific,2010,https://letterboxd.com/film/the-pacific-2010/,4
+2017-02-14,Doctor Who: The Waters of Mars,2009,https://letterboxd.com/film/doctor-who-the-waters-of-mars/,4
+2017-02-14,Doctor Who: The End of Time,2009,https://letterboxd.com/film/doctor-who-the-end-of-time/,3.5
+2017-02-14,The King of Kong,2007,https://letterboxd.com/film/the-king-of-kong/,4
+2017-02-14,Kenny Vs. Spenny,2007,https://letterboxd.com/film/kenny-vs-spenny/,4
+2017-02-14,Home Alone,1990,https://letterboxd.com/film/home-alone/,2.5
+2017-02-14,Goal! II: Living the Dream,2007,https://letterboxd.com/film/goal-ii-living-the-dream/,1.5
+2017-02-14,Perfume: The Story of a Murderer,2006,https://letterboxd.com/film/perfume-the-story-of-a-murderer/,2.5
+2017-02-14,Death Note,2006,https://letterboxd.com/film/death-note/,2.5
+2017-02-14,Fantastic Four,2005,https://letterboxd.com/film/fantastic-four-2005/,1.5
+2017-02-14,EuroTrip,2004,https://letterboxd.com/film/eurotrip/,2.5
+2017-02-14,Happy Tree Friends  Vol 2: Second Serving,2003,https://letterboxd.com/film/happy-tree-friends-vol-2-second-serving/,2.5
+2017-02-14,Pearl Harbor,2001,https://letterboxd.com/film/pearl-harbor/,1.5
+2017-02-15,Tickled,2016,https://letterboxd.com/film/tickled/,3.5
+2017-02-16,Swiss Army Man,2016,https://letterboxd.com/film/swiss-army-man/,3
+2017-02-16,In Time,2011,https://letterboxd.com/film/in-time/,1
+2017-02-16,Manchester by the Sea,2016,https://letterboxd.com/film/manchester-by-the-sea/,4
+2017-02-18,Outer Space,1999,https://letterboxd.com/film/outer-space/,3.5
+2017-03-02,Hell or High Water,2016,https://letterboxd.com/film/hell-or-high-water/,3.5
+2017-03-04,Parisienne,2015,https://letterboxd.com/film/parisienne/,2.5
+2017-03-06,Ordinary People,1980,https://letterboxd.com/film/ordinary-people/,4
+2017-03-11,She's the Man,2006,https://letterboxd.com/film/shes-the-man/,1
+2017-03-12,HyperNormalisation,2016,https://letterboxd.com/film/hypernormalisation/,3
+2017-03-13,The Age of Adaline,2015,https://letterboxd.com/film/the-age-of-adaline/,2.5
+2017-03-13,Non-Stop,2014,https://letterboxd.com/film/non-stop-2014/,2
+2017-03-18,The Nutty Professor,1996,https://letterboxd.com/film/the-nutty-professor-1996/,1.5
+2017-04-01,F for Fake,1973,https://letterboxd.com/film/f-for-fake/,4.5
+2017-04-08,Cold Fish,2010,https://letterboxd.com/film/cold-fish/,4
+2017-04-10,Cruel Intentions,1999,https://letterboxd.com/film/cruel-intentions/,2
+2017-04-10,Los nombres de Alicia,2005,https://letterboxd.com/film/los-nombres-de-alicia/,2.5
+2017-04-10,Your Name.,2016,https://letterboxd.com/film/your-name/,3
+2017-04-10,Waiting for Godot,2001,https://letterboxd.com/film/waiting-for-godot/,3
+2017-04-11,Alien Abduction: Incident in Lake County,1998,https://letterboxd.com/film/alien-abduction-incident-in-lake-county/,3
+2017-04-13,The Master,2012,https://letterboxd.com/film/the-master-2012/,4.5
+2017-04-16,Drive,2011,https://letterboxd.com/film/drive-2011/,3.5
+2017-04-17,Cameraperson,2016,https://letterboxd.com/film/cameraperson/,3.5
+2017-04-17,Prison Break: The Final Break,2009,https://letterboxd.com/film/prison-break-the-final-break/,1.5
+2017-04-17,Paterson,2016,https://letterboxd.com/film/paterson/,4
+2017-04-19,Three Outlaw Samurai,1964,https://letterboxd.com/film/three-outlaw-samurai/,3.5
+2017-04-24,The Best Offer,2013,https://letterboxd.com/film/the-best-offer/,3
+2017-04-25,"Right Now, Wrong Then",2015,https://letterboxd.com/film/right-now-wrong-then/,4
+2017-04-26,Batman v Superman: Dawn of Justice,2016,https://letterboxd.com/film/batman-v-superman-dawn-of-justice/,2.5
+2017-05-01,Stop Making Sense,1984,https://letterboxd.com/film/stop-making-sense/,4.5
+2017-05-05,Cyberbully,2011,https://letterboxd.com/film/cyberbully/,1
+2017-05-06,Twin Peaks: The Missing Pieces,2014,https://letterboxd.com/film/twin-peaks-the-missing-pieces/,4
+2017-05-07,0.5mm,2014,https://letterboxd.com/film/05mm/,4
+2017-05-15,Doctor Who: A Christmas Carol,2010,https://letterboxd.com/film/film:242699/,3
+2017-05-20,Adaptation.,2002,https://letterboxd.com/film/adaptation/,4
+2017-05-27,Shakespeare in Love,1998,https://letterboxd.com/film/shakespeare-in-love/,2.5
+2017-05-28,Horse Money,2014,https://letterboxd.com/film/horse-money/,4
+2017-06-19,12 Years a Slave,2013,https://letterboxd.com/film/12-years-a-slave/,3.5
+2017-06-20,Game of Death,1978,https://letterboxd.com/film/game-of-death/,2
+2017-06-27,Star Trek Into Darkness,2013,https://letterboxd.com/film/star-trek-into-darkness/,1.5
+2017-07-03,Clue,1985,https://letterboxd.com/film/clue/,3.5
+2017-07-04,Stoker,2013,https://letterboxd.com/film/stoker/,3.5
+2017-07-07,Blue Jay,2016,https://letterboxd.com/film/blue-jay-2016/,3
+2017-07-07,There Will Be Blood,2007,https://letterboxd.com/film/there-will-be-blood/,4
+2017-07-08,Street Fighter: The Legend of Chun-Li,2009,https://letterboxd.com/film/street-fighter-the-legend-of-chun-li/,1
+2017-07-08,Hick,2011,https://letterboxd.com/film/hick/,1
+2017-07-10,Children of Men,2006,https://letterboxd.com/film/children-of-men/,3.5
+2017-07-10,Alfie,2004,https://letterboxd.com/film/alfie-2004/,2.5
+2017-07-12,Gladiator,2000,https://letterboxd.com/film/gladiator-2000/,2.5
+2017-07-12,An Inn at Osaka,1954,https://letterboxd.com/film/an-inn-at-osaka/,4
+2017-07-18,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,1991,https://letterboxd.com/film/teenage-mutant-ninja-turtles-ii-the-secret-of-the-ooze/,1.5
+2017-07-22,Ace Attorney,2012,https://letterboxd.com/film/ace-attorney/,3
+2017-07-25,O.J.: Made in America,2016,https://letterboxd.com/film/oj-made-in-america/,4
+2017-07-26,The Skin I Live In,2011,https://letterboxd.com/film/the-skin-i-live-in/,3
+2017-07-27,Pass-Thru,2016,https://letterboxd.com/film/pass-thru/,0.5
+2017-07-28,Night of the Living Dead,1968,https://letterboxd.com/film/night-of-the-living-dead/,2
+2017-07-31,Get Out,2017,https://letterboxd.com/film/get-out-2017/,3
+2017-08-01,Pokémon: The First Movie: Mewtwo Strikes Back,1998,https://letterboxd.com/film/pokemon-the-first-movie-mewtwo-strikes-back/,3
+2017-08-05,The Dark Crystal,1982,https://letterboxd.com/film/the-dark-crystal/,2.5
+2017-08-06,Ugetsu,1953,https://letterboxd.com/film/ugetsu/,4
+2017-08-07,The Darjeeling Limited,2007,https://letterboxd.com/film/the-darjeeling-limited/,3.5
+2017-08-08,The Passion of the Christ,2004,https://letterboxd.com/film/the-passion-of-the-christ/,2.5
+2017-08-08,In the Realm of the Senses,1976,https://letterboxd.com/film/in-the-realm-of-the-senses/,3
+2017-08-10,Justice League: The Flashpoint Paradox,2013,https://letterboxd.com/film/justice-league-the-flashpoint-paradox/,3
+2017-08-13,Nocturnal Animals,2016,https://letterboxd.com/film/nocturnal-animals/,3.5
+2017-08-14,The Age of Shadows,2016,https://letterboxd.com/film/the-age-of-shadows/,3.5
+2017-08-16,Arabian Nights,2015,https://letterboxd.com/film/arabian-nights-2015/,4
+2017-08-16,A Cure for Wellness,2016,https://letterboxd.com/film/a-cure-for-wellness/,3
+2017-08-17,20th Century Women,2016,https://letterboxd.com/film/20th-century-women/,3
+2017-08-18,The Smash Brothers,2013,https://letterboxd.com/film/the-smash-brothers/,3.5
+2017-08-21,The Emoji Movie,2017,https://letterboxd.com/film/the-emoji-movie/,1
+2017-08-22,Zootopia,2016,https://letterboxd.com/film/zootopia/,2
+2017-08-22,The Road to El Dorado,2000,https://letterboxd.com/film/the-road-to-el-dorado/,3
+2017-08-22,Final Destination 3,2006,https://letterboxd.com/film/final-destination-3/,1
+2017-08-22,Otaku No Video,1991,https://letterboxd.com/film/otaku-no-video/,2.5
+2017-08-24,Baby Driver,2017,https://letterboxd.com/film/baby-driver/,3.5
+2017-08-25,The Blue Lagoon,1980,https://letterboxd.com/film/the-blue-lagoon/,1
+2017-08-27,North by Northwest,1959,https://letterboxd.com/film/north-by-northwest/,3
+2017-08-30,The Legend of Drunken Master,1994,https://letterboxd.com/film/the-legend-of-drunken-master/,3.5
+2017-08-30,The Vanishing,1993,https://letterboxd.com/film/the-vanishing-1993/,3
+2017-09-02,Love & Pop,1998,https://letterboxd.com/film/love-pop/,4
+2017-09-03,After the Storm,2016,https://letterboxd.com/film/after-the-storm-2016/,4
+2017-09-04,Boogie Nights,1997,https://letterboxd.com/film/boogie-nights/,4
+2017-09-08,It's Such a Beautiful Day,2012,https://letterboxd.com/film/its-such-a-beautiful-day/,4
+2017-09-09,The Chaser,2008,https://letterboxd.com/film/the-chaser/,2.5
+2017-09-11,Corpse Bride,2005,https://letterboxd.com/film/corpse-bride/,2.5
+2017-09-18,Catfish,2010,https://letterboxd.com/film/catfish/,3
+2017-09-24,On the Beach at Night Alone,2017,https://letterboxd.com/film/on-the-beach-at-night-alone/,3.5
