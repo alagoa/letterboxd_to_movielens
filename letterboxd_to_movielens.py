@@ -6,7 +6,7 @@ import imdb
 import sys
 
 if len(sys.argv) < 2:
-	print "Ũsage: python letterboxd_to_movielens.py <filename>"
+	print "Usage: python letterboxd_to_movielens.py <filename>"
 	sys.exit()
 
 ia = imdb.IMDb()
