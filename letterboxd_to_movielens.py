@@ -5,6 +5,9 @@ import csv
 import imdb
 import sys
 
+reload(sys)
+sys.setdefaultencoding("utf8")
+
 if len(sys.argv) < 2:
 	print "Usage: python letterboxd_to_movielens.py <filename>"
 	sys.exit()
