@@ -14,7 +14,7 @@ if len(sys.argv) < 2:
 
 ia = imdb.IMDb()
 
-out = "\"position\",\"const\",\"created\",\"modified\",\"description\",\"Title\",\"Title type\",\"Directors\",\"You rated\",\"IMDb Rating\",\"Runtime (mins)\",\"Year\",\"Genres\",\"Num. Votes\",\"Release Date (month/day/year)\",\"URL\"\n"
+out = "\"position\",\"Const\",\"created\",\"modified\",\"description\",\"Title\",\"Title type\",\"Directors\",\"Your Rating\",\"IMDb Rating\",\"Runtime (mins)\",\"Year\",\"Genres\",\"Num. Votes\",\"Release Date (month/day/year)\",\"URL\"\n"
 
 with open(sys.argv[1]) as fin:
     content = csv.reader(fin, delimiter=',')
